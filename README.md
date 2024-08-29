@@ -5,7 +5,7 @@ Welcome to the Capital Health project! This project is designed to improve healt
 # Project Overview
 The Capital Health project is a web-based application that offers a variety of features, including:
 
-(-)User Registration and Authentication: Secure sign-up and login for patients and healthcare providers.
+(-) User Registration and Authentication: Secure sign-up and login for patients and healthcare providers.
 Appointment Scheduling: Users can browse available healthcare providers and book appointments based on availability.
 Medical Records Management: Patients can view their medical history, prescriptions, and other important health records.
 Healthcare Provider Directory: A comprehensive list of healthcare providers, including specialists, general practitioners, and hospitals.
